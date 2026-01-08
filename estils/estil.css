@@ -6,10 +6,12 @@ body {
   }
 
   header h1 {
-    background-color: #f44336;
+    background-color: white;
+    color: #f44336;
     text-align: center;
-    border: 4px solid white;
+    border: 4px solid;
     padding: 5px;
+    border-style: dashed;
   }
 
   nav ul {
